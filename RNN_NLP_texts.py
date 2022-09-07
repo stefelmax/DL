@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1x8o599rMMmOEjBuLk_2ItkMXjFd8RY2J
 """
 
-from google.colab import drive, files #библиотке для работы с файлами
+from google.colab import drive, files #библиотека для работы с файлами
 import numpy as np
 from collections import Counter
 import pandas as pd

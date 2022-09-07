@@ -12,3 +12,5 @@ DENSE + EMBEDDING
 
 Ссылка на Google Colab:
 https://colab.research.google.com/drive/1n44_BGESiniwIdraUMlvKJwO3uEbLXD0?usp=sharing
+
++ загрузил дополнительно БД

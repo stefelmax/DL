@@ -9,3 +9,6 @@ DENSE + EMBEDDING
 3) Сэмплирование
 4) Создание нейросети и эксперименты
 5) График ошибки: Проверка точности модели
+
+Ссылка на Google Colab:
+https://colab.research.google.com/drive/1n44_BGESiniwIdraUMlvKJwO3uEbLXD0?usp=sharing
